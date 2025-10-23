@@ -45,26 +45,26 @@ const restaurantsData = async (req, res) => {
 // Menu data
 const menuData = async (req, res) => {
   const {
-    "page-type": page_type,
-    "complete-menu": complete_menu,
+    "page-type": page_type = "REGULAR_MENU",
+    "complete-menu": complete_menu = true,
     lat,
     lng,
-    submitAction,
     restaurantId,
+    submitAction = "ENTER",
   } = req.query;
 
   if (!restaurantId) {
     return res.status(400).json({ error: "restaurantId is required" });
   }
 
-  const url = `${SWIGGY_MENU_API}?page-type=${page_type || "REGULAR_MENU"}&complete-menu=${complete_menu || true}&lat=${lat}&lng=${lng}&submitAction=${submitAction || "ENTER"}&restaurantId=${restaurantId}`;
+  const url = `${SWIGGY_MENU_API}?page-type=${page_type}&complete-menu=${complete_menu}&lat=${lat}&lng=${lng}&restaurantId=${restaurantId}&submitAction=${submitAction}`;
 
   try {
     const response = await fetch(url, {
       headers: {
         "Content-Type": "application/json",
         "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
       },
     });
 
