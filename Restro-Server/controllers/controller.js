@@ -81,25 +81,33 @@ const menuData = async (req, res) => {
 // Place autocomplete
 const placeAutocomplete = async (req, res) => {
   const { input } = req.query;
+
   if (!input || input.trim() === "") {
     return res.json({ data: [] });
   }
 
-  const url = `${SWIGGY_LOC_API}${input}`;
-
   try {
-    const response = await fetch(url, {
+    const response = await fetch(SWIGGY_LOC_API, {
+      method: "POST", 
       headers: {
         "Content-Type": "application/json",
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "User-Agent": "Mozilla/5.0",
+        "origin": "https://www.swiggy.com",
+        "referer": "https://www.swiggy.com/search"
       },
+      body: JSON.stringify({
+        input: input,
+        types: []
+      })
     });
 
-    if (!response.ok) throw new Error("Failed to fetch autocomplete");
+    if (!response.ok) {
+      throw new Error(`Failed: ${response.status}`);
+    }
 
     const data = await response.json();
     res.json(data);
+
   } catch (error) {
     console.error("Autocomplete API Error:", error.message);
     res.status(500).json({ error: error.message });
