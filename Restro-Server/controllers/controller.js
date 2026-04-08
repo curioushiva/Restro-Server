@@ -117,25 +117,32 @@ const placeAutocomplete = async (req, res) => {
 // Place geo details
 const geoData = async (req, res) => {
   const { place_id } = req.query;
+
   if (!place_id) {
     return res.json({ data: [] });
   }
 
-  const url = `${SWIGGY_GEO_API}${place_id}`;
-
   try {
-    const response = await fetch(url, {
+    const response = await fetch(SWIGGY_GEO_API, {
+      method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "User-Agent":
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "User-Agent": "Mozilla/5.0",
+        "origin": "https://www.swiggy.com",
+        "referer": "https://www.swiggy.com/order-online-near-me"
       },
+      body: JSON.stringify({
+        place_id: place_id
+      })
     });
 
-    if (!response.ok) throw new Error("Failed to fetch geo data");
+    if (!response.ok) {
+      throw new Error(`Failed: ${response.status}`);
+    }
 
     const data = await response.json();
     res.json(data);
+
   } catch (error) {
     console.error("Geo API Error:", error.message);
     res.status(500).json({ error: error.message });
