@@ -1,0 +1,552 @@
+[
+  {
+    "file": "a9275e4bb0957daa5e2ac6f9a4818ed824dcfecd.json.gz",
+    "id": "10273",
+    "name": "Scoops Ice Cream"
+  },
+  {
+    "file": "11c51d3d1edd18f682a48c55121eaf6c6607b1d3.json.gz",
+    "id": "1052",
+    "name": "SMOOR"
+  },
+  {
+    "file": "c9aca058e418e379230721eb92a0beaddfb4b73b.json.gz",
+    "id": "10575",
+    "name": "Pizza Hut"
+  },
+  {
+    "file": "9b44175daba9c11da76ade432a64b5b603cf9d3e.json.gz",
+    "id": "1110698",
+    "name": "Seoul Burgers & Shakes"
+  },
+  {
+    "file": "8f65ed8df2f03176671fa068d543cd70fe074b91.json.gz",
+    "id": "118745",
+    "name": "McDonald's"
+  },
+  {
+    "file": "7b48eb7cf44a7d474a83dc5bc314677fe2bb5d26.json.gz",
+    "id": "1256949",
+    "name": "Subway"
+  },
+  {
+    "file": "90d6adebf61628deb1a3fbdc83889b638e735722.json.gz",
+    "id": "131217",
+    "name": "Rollsking"
+  },
+  {
+    "file": "1ebfd905ded70ebb6e970d60ac7f49f75459f988.json.gz",
+    "id": "132622",
+    "name": "Marwadi chaat & Tiffin Services (Jodhpur wala)"
+  },
+  {
+    "file": "026f42b724bb5de5fb22a7a880c589a18a59b66b.json.gz",
+    "id": "1344137",
+    "name": "Homely"
+  },
+  {
+    "file": "0b3cfc037710ce5aa3857b9f2017854cb99fc749.json.gz",
+    "id": "135424",
+    "name": "Homely"
+  },
+  {
+    "file": "13e3fe3b9178bccc4ae703acae3b90f3ea30681f.json.gz",
+    "id": "1357641",
+    "name": "City Pearl Restaurant"
+  },
+  {
+    "file": "9f58c79a79aca8b01abb95a97598e89b7d4ebaa6.json.gz",
+    "id": "1372854",
+    "name": "Seoul Burgers & Shakes"
+  },
+  {
+    "file": "c7d62a209f64b75c8269045c56f4bfd2beaab051.json.gz",
+    "id": "142670",
+    "name": "Shah Ghouse Hotel & Restaurant"
+  },
+  {
+    "file": "73e4a8d03455e38111512e2c875b8ed3ff7ce959.json.gz",
+    "id": "14548",
+    "name": "Burger King"
+  },
+  {
+    "file": "a4feb2c8e865389820c6ad58dbf97e7a83338622.json.gz",
+    "id": "147682",
+    "name": "McCafe by McDonald's"
+  },
+  {
+    "file": "bdcad2385f7b7b3fd8a4e1b2edb0d1730f208fa3.json.gz",
+    "id": "150646",
+    "name": "Cream Stone Ice Cream"
+  },
+  {
+    "file": "ac880bdb054f3f9367a49c967d98a8181b092fcf.json.gz",
+    "id": "16158",
+    "name": "Royal Tiffin Centre"
+  },
+  {
+    "file": "05e5c2637d4e2e3abbe7a1499fb116dd023935fb.json.gz",
+    "id": "175914",
+    "name": "La Pino'z Pizza"
+  },
+  {
+    "file": "be63c2cca93dbddc0f0b7d914f9a081a883c949e.json.gz",
+    "id": "192367",
+    "name": "McCafe by McDonald's"
+  },
+  {
+    "file": "70b89c7be0a4026150f2dbde0e1a231a6f60088c.json.gz",
+    "id": "194562",
+    "name": "McCafe by McDonald's"
+  },
+  {
+    "file": "2d46dfc7480cdd9b1202d187986bff3d699b0c06.json.gz",
+    "id": "215116",
+    "name": "Biryani Badshah"
+  },
+  {
+    "file": "99c0905d24df165cb7642579a673fe05a00fd0e1.json.gz",
+    "id": "25454",
+    "name": "Domino's Pizza"
+  },
+  {
+    "file": "510d30e35cc4c41b8bb0508a5e385684ed9273e2.json.gz",
+    "id": "261382",
+    "name": "MOPP - Mad Over Parathas & Pakodas"
+  },
+  {
+    "file": "492e80e384f77e00551f9f8dc5815133ee91b49e.json.gz",
+    "id": "262087",
+    "name": "Imperial Multicuisine Restaurant"
+  },
+  {
+    "file": "00edcd7cd48ec387f4b4218793a1534865d4b230.json.gz",
+    "id": "263747",
+    "name": "Shravan Specials by Lunchbox"
+  },
+  {
+    "file": "2e960407e4a7a6d340e6dec427ae2b890deb5af5.json.gz",
+    "id": "263841",
+    "name": "Shravan Specials by Lunchbox"
+  },
+  {
+    "file": "c084c997d013db336fb4a2be1bc2d5491d21c210.json.gz",
+    "id": "26717",
+    "name": "KFC"
+  },
+  {
+    "file": "0d24d4ebc1c43ebe7262d95a2f5ad6c0981be45c.json.gz",
+    "id": "285175",
+    "name": "Thalairaj Biryani"
+  },
+  {
+    "file": "cd9d979b823b5f3342e1c99f879404783df36fa8.json.gz",
+    "id": "28768",
+    "name": "Domino's Pizza"
+  },
+  {
+    "file": "4ef5c024000070772b67051d0f47fd080bbc81aa.json.gz",
+    "id": "31775",
+    "name": "Subway"
+  },
+  {
+    "file": "642a3f345d0ce004f4bee8915c63837da8c9eff7.json.gz",
+    "id": "32399",
+    "name": "McDonald's"
+  },
+  {
+    "file": "26aed8e848d6b9c033623c0ff9e24cdde7d77c17.json.gz",
+    "id": "325109",
+    "name": "Burgerama"
+  },
+  {
+    "file": "c671691961634cde3ef233b8a423b515dbaa9b5c.json.gz",
+    "id": "328878",
+    "name": "Charcoal Eats - Biryani & Beyond"
+  },
+  {
+    "file": "6009504fa7c3c5ca358af773be8a972007866ca2.json.gz",
+    "id": "355806",
+    "name": "Baba Falooda (Kurla)"
+  },
+  {
+    "file": "7ca14271ef2b74e5a4de04e10874850e8952513b.json.gz",
+    "id": "356343",
+    "name": "The Belgian Waffle Co."
+  },
+  {
+    "file": "08aaaa3ab24bb38f389b1a901ca270806711304d.json.gz",
+    "id": "371782",
+    "name": "Keventers Waffles & Ice Cream"
+  },
+  {
+    "file": "19f191e65beec221f26ed2035fa80ecae718204c.json.gz",
+    "id": "376244",
+    "name": "Good Flippin' Burgers"
+  },
+  {
+    "file": "09360e7b25e5553646d3a8465ed724f78aca2766.json.gz",
+    "id": "384217",
+    "name": "Gourmet Ice Cream Cakes by Baskin Robbins"
+  },
+  {
+    "file": "58fea5ad62c128c0e3f2875496059e474cb64acd.json.gz",
+    "id": "391187",
+    "name": "Gourmet Ice Cream Cakes by Baskin Robbins"
+  },
+  {
+    "file": "94d35036cfa02cf729e008fbab7eb8234fa7d889.json.gz",
+    "id": "391816",
+    "name": "Louis Burger"
+  },
+  {
+    "file": "138d48f334bfb9fc17707ae9ded7a1bf9a882bf3.json.gz",
+    "id": "392342",
+    "name": "MS Mandi and Shawarma"
+  },
+  {
+    "file": "8397243808fab6338978061d6c2c013ae80c6699.json.gz",
+    "id": "395346",
+    "name": "McDonald's Gourmet Burger Collection"
+  },
+  {
+    "file": "3771c8888aa2531be6152e560ea17d287fe1828e.json.gz",
+    "id": "402923",
+    "name": "Itminaan Matka Biryani - Slow Cooked"
+  },
+  {
+    "file": "78e8e7df87124c01ee4ac31050e99e8e16ee2bfc.json.gz",
+    "id": "402924",
+    "name": "Mealful Rolls - India's Biggest Rolls"
+  },
+  {
+    "file": "f19865322824a4d2b7c90aa6d571560ea02fd707.json.gz",
+    "id": "40377",
+    "name": "Lucky Restaurant"
+  },
+  {
+    "file": "7ccc56ad62fead8e151af63b6fc27ca1e4e93e1d.json.gz",
+    "id": "433135",
+    "name": "Oodles of Noodles"
+  },
+  {
+    "file": "49ec1bbf88f81bb114d7bf49eace0d98dcbad83d.json.gz",
+    "id": "433927",
+    "name": "Hot Naan"
+  },
+  {
+    "file": "2e1cebca2323a84aaccfe49949441f6cca29d5fc.json.gz",
+    "id": "43836",
+    "name": "McDonald's"
+  },
+  {
+    "file": "7cba284e62baf529de931e30059915768238b26a.json.gz",
+    "id": "439636",
+    "name": "Madno - House of Sundaes and Waffles"
+  },
+  {
+    "file": "261e476354c97b0d1200286d3f0b1e857d4c930f.json.gz",
+    "id": "445428",
+    "name": "ENSO - Sourdough Pizza by Nomad"
+  },
+  {
+    "file": "263d5f21d50d6450d45d24765715c0b6756cd501.json.gz",
+    "id": "456986",
+    "name": "Domino's Pizza"
+  },
+  {
+    "file": "121d5241b63f86c50e4d6398df3fd73829f8aa82.json.gz",
+    "id": "478009",
+    "name": "Albaik original"
+  },
+  {
+    "file": "8332ca8d77ff9a86b2909ef9fac7e89d0c358f55.json.gz",
+    "id": "47833",
+    "name": "Persian Darbar"
+  },
+  {
+    "file": "5a4befbdd9907855b765fb991538ef3f43a7801c.json.gz",
+    "id": "484594",
+    "name": "KFC"
+  },
+  {
+    "file": "9b8dff6d137bb89ef728e8e1e70a9ad1f210c3aa.json.gz",
+    "id": "506982",
+    "name": "McDonald's"
+  },
+  {
+    "file": "27ee2946fc3334931495c2a028b37ac8e72b2e9f.json.gz",
+    "id": "527591",
+    "name": "Wow! Momo"
+  },
+  {
+    "file": "82afa7e41474ad6c4a0eb0c6ec6227a121dd8195.json.gz",
+    "id": "534667",
+    "name": "Nomad Pizza - Traveller Series"
+  },
+  {
+    "file": "8468034fae49f8f3dc7fb8364fc1239c4886bd1e.json.gz",
+    "id": "535962",
+    "name": "Slyce Pizza"
+  },
+  {
+    "file": "d3e1b7fe2b81ab88ed258d65d5f6d84f105af4c4.json.gz",
+    "id": "53784",
+    "name": "Pizza Hut"
+  },
+  {
+    "file": "7b4d0037420b860ffd5a91d8b8a2c001f973085b.json.gz",
+    "id": "542354",
+    "name": "Kaati Zone Rolls & Wraps"
+  },
+  {
+    "file": "540c9e57eafd241d40e1998fa5a88f74123a5b8f.json.gz",
+    "id": "542432",
+    "name": "Cupcake Bliss Cake & Desserts"
+  },
+  {
+    "file": "2b34ce662f81ae620cb554b943eb2e59f1360534.json.gz",
+    "id": "549526",
+    "name": "Wahid Restaurant"
+  },
+  {
+    "file": "bf716789ee2f7525f91b9f0bc9b83017d5569e21.json.gz",
+    "id": "553423",
+    "name": "Dawat Durbar"
+  },
+  {
+    "file": "fa86130d61e9229969c6ce633ed519261277a85c.json.gz",
+    "id": "561987",
+    "name": "Nirula's"
+  },
+  {
+    "file": "48fd4dbf3c8c7b1ae7ec7b5b80c2ff67a9bea900.json.gz",
+    "id": "5624",
+    "name": "Subway"
+  },
+  {
+    "file": "0adf9e06dd95d259d9a01d89e91238bdabcd6845.json.gz",
+    "id": "562636",
+    "name": "Zakir Seekh Corner"
+  },
+  {
+    "file": "7d042cf72a02ed38765f9ffa7ac1482d23aa73ef.json.gz",
+    "id": "566418",
+    "name": "Faasos Signature Wraps & Rolls"
+  },
+  {
+    "file": "6c0136782216e69cb8dbb2a1cb5f4c64a4af4c7f.json.gz",
+    "id": "566424",
+    "name": "Faasos Signature Wraps & Rolls"
+  },
+  {
+    "file": "070215bfe5e9950915057d2f867b453cd51fce72.json.gz",
+    "id": "575164",
+    "name": "Veg Darbar by Behrouz Biryani"
+  },
+  {
+    "file": "6f521416f6c72654adabb1ca6de89b3f24cc965b.json.gz",
+    "id": "576015",
+    "name": "Go Zero Ice Creams & Desserts"
+  },
+  {
+    "file": "20e586e2e6735ee73fa35ffb042f2ec11ee85bb6.json.gz",
+    "id": "589839",
+    "name": "The Dessert Heaven - Pastry, Brownie and Cakes"
+  },
+  {
+    "file": "ad5eb5468b393e249a74b1607232c804fe5a1052.json.gz",
+    "id": "5938",
+    "name": "Burger King"
+  },
+  {
+    "file": "2b44eaf99476c83e6bc2a2d32111f7211bf6d8ae.json.gz",
+    "id": "59643",
+    "name": "Baskin Robbins - Ice Cream Desserts"
+  },
+  {
+    "file": "faabb45bd52c78cde0a9c01dc129286790bd71e8.json.gz",
+    "id": "62012",
+    "name": "Nirula's"
+  },
+  {
+    "file": "c45be9fe341e2b617a9551dba9db4b30aa489072.json.gz",
+    "id": "62510",
+    "name": "Ohri's Cake Nation"
+  },
+  {
+    "file": "07c887afc389f6f6bb043940cbef5b4ee0f038e2.json.gz",
+    "id": "625226",
+    "name": "Pizza Hut"
+  },
+  {
+    "file": "72e4ce95cc33e9db91a5355f88bfc638a23e1ffb.json.gz",
+    "id": "650819",
+    "name": "Wow! Momo"
+  },
+  {
+    "file": "0b0852727ef13e1c130288da5cfcf3cc31449a41.json.gz",
+    "id": "661672",
+    "name": "City Diamond Haleem"
+  },
+  {
+    "file": "899d4868b197dc228bb37bbb1bffbf09fed9d6f5.json.gz",
+    "id": "672074",
+    "name": "Subway"
+  },
+  {
+    "file": "2d87feceb07db41fbe6629964ac5e1b673ba15cd.json.gz",
+    "id": "673363",
+    "name": "Bombay Sweet Shop"
+  },
+  {
+    "file": "1ec860b744020c98d03827f57678b9745584fe6e.json.gz",
+    "id": "681302",
+    "name": "GLOBO Ice Creams Of The World"
+  },
+  {
+    "file": "989bd8730e31e5b50ee4d78e184e4751aef2d192.json.gz",
+    "id": "681363",
+    "name": "GLOBO Ice Creams Of The World"
+  },
+  {
+    "file": "9da4b5d2edaaea60dfc3e22d0823aba1d368dbcf.json.gz",
+    "id": "681856",
+    "name": "Louis Burger"
+  },
+  {
+    "file": "74b70a8ac3e4d13a20505ccd947b57f07a970c70.json.gz",
+    "id": "681858",
+    "name": "Slyce Pizza"
+  },
+  {
+    "file": "12fdb5ae66c5430be06fe285d53e88982321a450.json.gz",
+    "id": "690898",
+    "name": "Ovenfresh Cakes And Desserts"
+  },
+  {
+    "file": "e81d5adfd633878c6567d5273cae5685e29763e4.json.gz",
+    "id": "69121",
+    "name": "Burger Singh(Big Punjabi Burgers)"
+  },
+  {
+    "file": "c6a6e28e560eff463f347d71157711444f924e66.json.gz",
+    "id": "698272",
+    "name": "Maiz Mexican Kitchen"
+  },
+  {
+    "file": "ade99dfd65710f11833cb42b8e0228a714d3dc45.json.gz",
+    "id": "699105",
+    "name": "Harvest Salad Co"
+  },
+  {
+    "file": "02a2d0c68d522505519092a8542a47728c55984d.json.gz",
+    "id": "699427",
+    "name": "Domino's Pizza"
+  },
+  {
+    "file": "ba881d80396e412f0e44547d9400aec805c67022.json.gz",
+    "id": "699984",
+    "name": "Blue Sea Restaurant"
+  },
+  {
+    "file": "36758dbaa469ea6d9c89c8bca69b15c4ebf0bf9e.json.gz",
+    "id": "700002",
+    "name": "Caterspoint"
+  },
+  {
+    "file": "ba5d07bb50b7fc986e89def9d464d2ccb9f2c2ae.json.gz",
+    "id": "706853",
+    "name": "Choko La"
+  },
+  {
+    "file": "ac20d1c847dafce6464bfae2de11b1dea5ed7186.json.gz",
+    "id": "711748",
+    "name": "Salad Days"
+  },
+  {
+    "file": "7913cefb5e526185a803afc46806880c5f380ed0.json.gz",
+    "id": "714961",
+    "name": "Gourmet Ice Cream Cakes by Baskin Robbins"
+  },
+  {
+    "file": "0aab10613bd8e896f743e0188be9237fa7b7dbb2.json.gz",
+    "id": "760636",
+    "name": "Crusto's - Cheese Burst Pizza By Olio"
+  },
+  {
+    "file": "7e9e888f30534e308f18b51be7b88e153295c94b.json.gz",
+    "id": "767218",
+    "name": "Seoul Burgers & Shakes"
+  },
+  {
+    "file": "6dc6dff492dcfde4885151b37f20a7bcef881c18.json.gz",
+    "id": "77584",
+    "name": "Wow! Momo"
+  },
+  {
+    "file": "a147a133c36e352d931c4c583fd8e0abc64b2da3.json.gz",
+    "id": "78036",
+    "name": "Burger King"
+  },
+  {
+    "file": "cf48100c3303b7d05c0f15ca3932a987db6efcbe.json.gz",
+    "id": "787747",
+    "name": "Domino's Pizza"
+  },
+  {
+    "file": "963ffc843f52b1c5dbff792d4abc705a32597845.json.gz",
+    "id": "801307",
+    "name": "Makhani Darbar: Curries, Breads & Beyond"
+  },
+  {
+    "file": "eb7b3080b4d30250536e8df66e2b7c4a71bf2622.json.gz",
+    "id": "811336",
+    "name": "La Pino'z Pizza"
+  },
+  {
+    "file": "75418060e4211e93b4e5182c818b26d2d859a13a.json.gz",
+    "id": "82668",
+    "name": "The Belgian Waffle Co."
+  },
+  {
+    "file": "6b81dc98ca6d348673550b07ce1357b6487385ee.json.gz",
+    "id": "834978",
+    "name": "Good Flippin' Burgers"
+  },
+  {
+    "file": "fbe22cab9687c35b111ba861d33dcc16237365aa.json.gz",
+    "id": "837892",
+    "name": "The Pizza Project by Oven Story"
+  },
+  {
+    "file": "3e501e3c5bcb59bf78a47e5367fe1e84dfa56e5c.json.gz",
+    "id": "838677",
+    "name": "Seoul Burgers & Shakes"
+  },
+  {
+    "file": "54fa021a0eb5ff406923b7aaba0de864a1acc8b9.json.gz",
+    "id": "865859",
+    "name": "Salad Days"
+  },
+  {
+    "file": "2ca0ab4d2f21275c68e469ebcd8e304def8782c6.json.gz",
+    "id": "869679",
+    "name": "Olio - The Wood Fired Pizzeria"
+  },
+  {
+    "file": "1a16d466653d9aeccd4cfdd092955bce0f3ea082.json.gz",
+    "id": "90755",
+    "name": "Homely"
+  },
+  {
+    "file": "62cc7c2f4bf47d5c0548a446c9157be810537375.json.gz",
+    "id": "907583",
+    "name": "Seoul Burgers & Shakes"
+  },
+  {
+    "file": "1e31a297243f3a29893f1b986c8c5e35d8abbee6.json.gz",
+    "id": "9862",
+    "name": "Pizza Hut"
+  }
+]
