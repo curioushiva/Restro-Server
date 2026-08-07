@@ -17,8 +17,8 @@ A minimal **Node.js + Express** backend powering the Restro App. It’s inspired
 
 ### 1. Clone this repo  
 ```bash
-git clone https://github.com/curioushiva/Restro-Server.git
-cd Restro-Server
+git clone https://github.com/curioushiva/restro-server.git
+cd restro-server
 ```
 
 ### 2. Install dependencies  
